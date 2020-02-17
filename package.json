@@ -4,5 +4,11 @@
     "ejs": "^3.0.1",
     "express": "^4.17.1",
     "mongoose": "^5.9.1"
-  }
+  },
+  "name": "mongodbRestApi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kunstloch/mongodbRestApi.git",
+  "author": "Alexander Scherer <alexscherer@outlook.com>",
+  "license": "MIT"
 }
