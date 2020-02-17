@@ -2,6 +2,10 @@
 
 Learning to build RESTful API with MongoDB
 
-## Start with:
+### Run MongoDB with:
 
-node app.js
+`$ "C:\Program Files\MongoDB\Server\4.2\bin\mongo.exe"`
+
+### Start App.js with:
+
+`node app.js`
